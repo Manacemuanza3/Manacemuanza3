@@ -1,3 +1,4 @@
+
 ⚡ MANACE | Software Developer
 
 <div align="center">
@@ -13,7 +14,7 @@ Building ideas into digital reality.
 </div>
 
 ⸻
-
+## About Me
 👨‍💻 ABOUT ME
 
 Hello! I’m Manace, a Software Engineering student passionate about technology, programming and digital innovation.
