@@ -116,3 +116,10 @@ Building the future, one line of code at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=100&section=footer" width="100%" />
 </div>
+<h2>🛠️ Technologies & Skills</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js"
+       alt="HTML CSS JavaScript"
+  />
+</p>
